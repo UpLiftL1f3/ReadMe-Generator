@@ -1,16 +1,16 @@
-# Genreate ReadMeReadMe
+# README GeneratorReadMe
 
   ## Table of Contents
-  - Description
-  - Installation
-  - Contributing
-  - Questions
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Contributing](#Contributing)
+  - [Questions](#Questions)
   
   ### Description
-  none
+  Helps you generate a README.md file 
   
   ### Installation
-  none
+  Open integrated terminal then run 'node index.js'
   
   ### Licenses
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -27,9 +27,9 @@
   none
   
   ### Questions: 
-  [ UpLiftL1f3](https://github.com/UpLiftL1f3/04-HW)
+  [ UpLiftL1f3](https://github.com/UpLiftL1f3/ReadMe-Generator)
   if you have any questions or concerns please reach out to the provided email address.
-  timeToMakeit@gmail.com
+  GB@me.com
   
-
+  
   
