@@ -341,10 +341,10 @@ function generateMarkdown(data) {
   return `# ${data.projectName + 'ReadMe'}
 
   ## Table of Contents
-  - Description
-  - Installation
-  - Contributing
-  - Questions
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Contributing](#Contributing)
+  - [Questions](#Questions)
   
   ### Description
   ${data.description}
@@ -365,7 +365,7 @@ function generateMarkdown(data) {
   if you have any questions or concerns please reach out to the provided email address.
   ${data.email}
   
-
+  
   `;
 
   //your job is to write a template to take in the response data and fill out a readme form based on it

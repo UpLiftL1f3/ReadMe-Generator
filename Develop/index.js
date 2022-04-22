@@ -69,31 +69,10 @@ const questions = [
 function init() {
   inquirer.prompt(questions).then((response) => {
     console.log(response);
-    fs.writeFile('./ReadMe.md', generateMarkdown(response), function (error) {
+    fs.writeFile('../ReadMe.md', generateMarkdown(response), function (error) {
       if (error) console.error(error);
     });
   });
-
-  // Second Attempt
-  // inquirer.prompt([
-  //   {
-  //     type: 'input',
-  //     message: 'What is your GitHub username?',
-  //     name: 'username',
-  //     // To Validate
-  //     validate: (value) => {
-  //       if (value) {
-  //         return true;
-  //       } else {
-  //         return 'You need a value to continue';
-  //       }
-  //     },
-  //   },
-  // ]);
-  //Write inquirer prompt here
-  // call writeToFile inside .then()
-  // how to send answers from users into markdown function
-  //pass answers to write to file here
 }
 
 // Function call to initialize app
