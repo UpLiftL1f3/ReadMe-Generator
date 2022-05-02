@@ -1,4 +1,4 @@
-# Express Note TakerReadMe
+# README GeneratorReadMe
 
   ## Table of Contents
   - [Description](#Description)
@@ -7,10 +7,10 @@
   - [Questions](#Questions)
   
   ### Description
-  A website that allows you to write notes and keep track of your tasks
+  Helps you generate a README.md file 
   
   ### Installation
-  opend integraded terminal for server.js. Then run npm i. Once thats done use nodemon server.js to run the program and go to http://localhost:3001
+  Open integrated terminal then run 'node index.js'
   
   ### Licenses
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -24,10 +24,10 @@
       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   
   ### Contributing
-  na
+  none
   
   ### Questions: 
-  [ UpLiftL1f3](https://github.com/UpLiftL1f3)
+  [ UpLiftL1f3](https://github.com/UpLiftL1f3/ReadMe-Generator)
   if you have any questions or concerns please reach out to the provided email address.
   GB@me.com
   
