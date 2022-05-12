@@ -364,7 +364,7 @@ function generateMarkdown(data) {
   [ ${data.username}](${data.githubLink})
   if you have any questions or concerns please reach out to the provided email address.
   ${data.email}
-  
+
   
   `;
 
